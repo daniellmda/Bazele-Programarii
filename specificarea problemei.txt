@@ -1,0 +1,16 @@
+Specificarea problemei
+1. Media clasei
+2. Calcularea notei medii a clasei, dacă la o lucrare de control elevii au primit Z note de 10, N de 9, O de 8, S de 7 şi P de 4".
+3. De la tastatura se introduc 5 numere naturale, fiecare din rand nou. (Z,N,O,S,P : Natural)
+4. Se va afisa un numar real X ce reprezinta media clasei la lucrarea de control
+5. Daca se introduc mai putin de 5 numere, se va astepta pana cand nu vor fi introduse 5 numere
+Daca se introduc mai mult de 5 numere, vor fi luate in calcul doar primele 5 numere introduse
+Daca valorile se introduc intr-un rand, se va lua in calcul doar prima valoare introdusa.
+Daca se introduc numere de un tip care nu este compatibil cu cel natural, atunci va fi eroare la executie.
+6. Exemple: 
+Z=1
+N=3
+O=2
+S=3
+P=2
+X=7,45
